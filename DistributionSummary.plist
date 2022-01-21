@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DotPayTestApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+				<key>dateExpires</key>
+				<string>21/01/2023</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<key>dateExpires</key>
+						<string>21/01/2023</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DotPaySDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4BF2V7PTBJ</string>
+						<key>name</key>
+						<string>Dotpay S.A.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.0.180</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<key>dateExpires</key>
+						<string>21/01/2023</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MasterpassChampionSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4BF2V7PTBJ</string>
+						<key>name</key>
+						<string>Dotpay S.A.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<key>dateExpires</key>
+						<string>21/01/2023</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>VisaCheckoutSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4BF2V7PTBJ</string>
+						<key>name</key>
+						<string>Dotpay S.A.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.6.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4BF2V7PTBJ.com.kissdigital.dotpay-testappp</string>
+				<key>com.apple.developer.in-app-payments</key>
+				<array/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4BF2V7PTBJ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4BF2V7PTBJ.io.vorm.dotpay.dev</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DotPayTestApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>668dbd92-d413-4e7e-aaf6-4be85ea990eb</string>
+				<key>dateExpires</key>
+				<string>21/01/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.kissdigital.dotpay-testappp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4BF2V7PTBJ</string>
+				<key>name</key>
+				<string>Dotpay S.A.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.0.180</string>
+		</dict>
+	</array>
+</dict>
+</plist>
