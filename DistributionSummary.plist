@@ -15,11 +15,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+				<string>539E352BD5E47F6E89421A65E8B29CC8E671FAF4</string>
 				<key>dateExpires</key>
-				<string>21/01/2023</string>
+				<string>15/02/2022</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -34,20 +34,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<string>539E352BD5E47F6E89421A65E8B29CC8E671FAF4</string>
 						<key>dateExpires</key>
-						<string>21/01/2023</string>
+						<string>15/02/2022</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>DotPaySDK.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>4BF2V7PTBJ</string>
+						<string>F9KVXQBG82</string>
 						<key>name</key>
-						<string>Dotpay S.A.</string>
+						<string></string>
 					</dict>
 					<key>versionNumber</key>
 					<string>2.0.180</string>
@@ -63,20 +63,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<string>539E352BD5E47F6E89421A65E8B29CC8E671FAF4</string>
 						<key>dateExpires</key>
-						<string>21/01/2023</string>
+						<string>15/02/2022</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>MasterpassChampionSDK.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>4BF2V7PTBJ</string>
+						<string>F9KVXQBG82</string>
 						<key>name</key>
-						<string>Dotpay S.A.</string>
+						<string></string>
 					</dict>
 					<key>versionNumber</key>
 					<string>1.0.1</string>
@@ -92,20 +92,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>9352D35941DCCD39835F753BF27E8286DA62C4D3</string>
+						<string>539E352BD5E47F6E89421A65E8B29CC8E671FAF4</string>
 						<key>dateExpires</key>
-						<string>21/01/2023</string>
+						<string>15/02/2022</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>VisaCheckoutSDK.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>4BF2V7PTBJ</string>
+						<string>F9KVXQBG82</string>
 						<key>name</key>
-						<string>Dotpay S.A.</string>
+						<string></string>
 					</dict>
 					<key>versionNumber</key>
 					<string>6.6.2</string>
@@ -114,16 +114,18 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>4BF2V7PTBJ.com.kissdigital.dotpay-testappp</string>
+				<string>F9KVXQBG82.pl.paypro.dotpay-testapp</string>
 				<key>com.apple.developer.in-app-payments</key>
-				<array/>
+				<array>
+					<string>merchant.pl.demoshop.24</string>
+				</array>
 				<key>com.apple.developer.team-identifier</key>
-				<string>4BF2V7PTBJ</string>
+				<string>F9KVXQBG82</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>4BF2V7PTBJ.io.vorm.dotpay.dev</string>
+					<string>F9KVXQBG82.io.vorm.dotpay.dev</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -131,18 +133,18 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>668dbd92-d413-4e7e-aaf6-4be85ea990eb</string>
+				<string>02a90e26-4127-4e1f-9147-46fb0309185c</string>
 				<key>dateExpires</key>
-				<string>21/01/2023</string>
+				<string>15/02/2022</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.kissdigital.dotpay-testappp</string>
+				<string>Dotpay test app 2</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>4BF2V7PTBJ</string>
+				<string>F9KVXQBG82</string>
 				<key>name</key>
-				<string>Dotpay S.A.</string>
+				<string></string>
 			</dict>
 			<key>versionNumber</key>
 			<string>2.0.180</string>

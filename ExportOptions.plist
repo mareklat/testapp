@@ -4,8 +4,6 @@
 <dict>
 	<key>compileBitcode</key>
 	<true/>
-	<key>destination</key>
-	<string>export</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
@@ -17,12 +15,19 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>pl.paypro.dotpay-testapp</key>
+		<string>02a90e26-4127-4e1f-9147-46fb0309185c</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>4BF2V7PTBJ</string>
+	<string>F9KVXQBG82</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
